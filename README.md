@@ -1,5 +1,5 @@
 ##
-![alt text](https://ibb.co/rFvmjr5)
+![alt text](https://i.ibb.co/6PTG0gK/GDSC-SRM-Institute-of-Science-Technology-Ramapuram-Campus-Logo-x1.png)
 
 
 ## WHAT IS HACKTOBER?
