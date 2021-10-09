@@ -7,7 +7,7 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 ## WHY OPENSOURCE?
 Open-sourcing is a cost-effective way of contributing to projects. Opensource makes it possible to have fewer bugs and faster fixes. People are always looking for flaws to fix. Oh and also you get some cool swags for your contributions 👀
 
-## How to contribute (overall process)
+## HOW TO CONTRIBUTE?
 
 1. Fork the project, using the gray `Fork` button in the top right of this page
 2. Make any changes in your forked repo
